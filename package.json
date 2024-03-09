@@ -1,0 +1,23 @@
+{
+  "name": "tea-alchemy",
+  "version": "0.0.1",
+  "description": "Tea alchemy package to check TEA api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parrot29000/tea-alchemy.git"
+  },
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "parrot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parrot29000/tea-alchemy/issues"
+  },
+  "homepage": "https://github.com/parrot29000/tea-alchemy#readme"
+}
